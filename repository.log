@@ -1,0 +1,65 @@
+commit 6fe01029614073fa27be78dc35821ce3881ffb2f
+Author: Amber Jia <zj519@spitfire.ae.ic.ac.uk>
+Date:   Tue Mar 19 23:29:43 2024 +0000
+
+    correct unit tests: 1 unit test in Lid_test.cpp  for LidDrivenCavity.cpp, and 4 unit tests in SolverCG_test.cpp for SolverCG.cpp plus the Makefile
+
+commit 2ccc3fd508ba412f35275ed4bbbed9c1dc8ae448
+Author: Amber Jia <zj519@spitfire.ae.ic.ac.uk>
+Date:   Tue Mar 19 16:44:36 2024 +0000
+
+    correct running unit test of LidDrivenCavity.cpp by making public in header file
+
+commit bad305d5dd53f4e59b0e846d39ce4f0a8e4aa1e8
+Author: Amber Jia <zj519@hurricane.ae.ic.ac.uk>
+Date:   Sun Mar 17 13:51:14 2024 +0000
+
+    add unit tests
+
+commit e6f934e2c281361c66c41f07a9ffd13b4556394e
+Author: Amber Jia <zj519@hurricane.ae.ic.ac.uk>
+Date:   Sun Mar 10 23:20:00 2024 +0000
+
+    add doxygen comment to LidDrivenCavitySolver.cpp
+
+commit be3dd42361b716723d8084dbd4756820688fcce6
+Author: Amber Jia <zj519@hurricane.ae.ic.ac.uk>
+Date:   Sun Mar 10 22:42:49 2024 +0000
+
+    add doxygen comment for SolverCG.cpp and SolverCG.h
+
+commit 7faf7cc8aa8a74b547cbda6c216542941ca51e5c
+Author: Amber Jia <zj519@hurricane.ae.ic.ac.uk>
+Date:   Sun Mar 10 17:09:43 2024 +0000
+
+    add doxygen comments for LidDrivenCavity.cpp and its header file
+
+commit 42016a6e25c2c07ec42cbdc790459e49722b0df3
+Author: Amber Jia <zj519@hurricane.ae.ic.ac.uk>
+Date:   Sun Mar 10 13:53:19 2024 +0000
+
+    change the excutable generated named solver
+
+commit 9ad038980f58e6ce9a51e8a1b02a91b6780d663f
+Author: Amber Jia <zj519@hurricane.ae.ic.ac.uk>
+Date:   Sun Mar 10 13:33:17 2024 +0000
+
+    correct makefile compiles code
+
+commit 7e6d1786cff26faccce58b8fcb346dde6223b164
+Author: Amber Jia <zj519@typhoon.ae.ic.ac.uk>
+Date:   Sun Mar 10 12:46:24 2024 +0000
+
+    change makefile
+
+commit ad2de92bedf217220fb6bf5eaffeb624c23ee4ff
+Author: Amber Jia <zj519@typhoon.ae.ic.ac.uk>
+Date:   Fri Mar 8 13:34:27 2024 +0000
+
+    create Makefile and rename to Solver
+
+commit 2ae59a53a664e349dd6a526451fe1cf4452cd7d0
+Author: Amber Jia <zj519@typhoon.ae.ic.ac.uk>
+Date:   Fri Mar 8 00:03:11 2024 +0000
+
+    initial commit: add initial code files
